@@ -2,6 +2,7 @@ baseurl:https://stat240.github.io/STAT240/
 ignoreFiles: [\.Rmd$, \.Rmarkdown$, _files$, _cache$]
 languageCode: en-US
 buildFuture: true
+timezone: America/New_York
 menu:
   main:
   - {name: Schedule, url: /schedule/}

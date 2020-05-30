@@ -1,4 +1,4 @@
-baseurl: https://UW-CSSS-564.github.io/2018/
+baseurl:https://github.com/stat240/STAT240
 ignoreFiles: [\.Rmd$, \.Rmarkdown$, _files$, _cache$]
 languageCode: en-US
 buildFuture: true
